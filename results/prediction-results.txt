@@ -1,0 +1,6 @@
+prediction for custom image:
+cat : 81.85 %
+dog : 11.98 %
+horse : 2.87 %
+bird : 1.38 %
+truck : 0.97 %
